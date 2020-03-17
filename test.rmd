@@ -3,7 +3,7 @@ title: "Test"
 author: "Lisa"
 date: "3/17/2020"
 output: 
-  github_document: 
+  github_document 
 ---
 
 ```{r setup, include=FALSE}
